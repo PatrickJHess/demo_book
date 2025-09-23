@@ -1,2 +1,2 @@
-# What Is Back Ground Material About?
-## This Jupyter Book presents material that is meant to help those unfamiliar with Python.  Each chapter is an introduction to a topic that is used in the nootesbooks of Financial Python.
+# Background Material: An Introduction to Python for Financial Applications
+## This Jupyter Book provides foundational material for users new to Python. Each chapter introduces a topic essential for understanding the notebooks in "Financial Python.".
